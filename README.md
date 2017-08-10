@@ -2,6 +2,11 @@
 
 <img src="https://gyazo.com/69a6f323ad08faa0bf6081fce51aa0a1.gif"/>
 
+## 元ネタ
+http://www.ore-memo.com/813.html
+実装はこちらのサイトで紹介されている通り.
+`CharByCharTextView` というカスタムビューにまとめた.
+
 ## 使い方
 `CharByCharTextView` を使う.
 
